@@ -26,7 +26,7 @@ Create the database and user for the project:
 ```
 mysql -uroot -p
 CREATE DATABASE trivia CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-GRANT ALL on trivia.* to trivia@127.0.0.1 identified by 'trivia';
+GRANT ALL on trivia.* to triviademo@127.0.0.1 identified by 'triviademo';
 quit
 ```
 
