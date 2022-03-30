@@ -2,8 +2,8 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Player;
 use Illuminate\Http\Request;
-use App\Player;
 use App\Http\Resources\Player as PlayerResource;
 use App\Http\Resources\PlayerCollection;
 
