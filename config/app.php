@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'Lavareldemo-env.eba-2hitjwix.us-east-1.elasticbeanstalk.com '),
 
     'asset_url' => env('ASSET_URL'),
 
